@@ -1,0 +1,15 @@
+{
+  "name": "argv-parser",
+  "version": "1.0.0",
+  "description": "A simple argv parser for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js another --good=yes -bad=no --novalue"
+  },
+  "keywords": [
+    "argv",
+    "parser"
+  ],
+  "author": "Seyz",
+  "license": "Apache-2.0"
+}
